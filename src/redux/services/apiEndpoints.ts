@@ -1,5 +1,5 @@
-export const BASE_URL = "http://localhost:8000";
-// export const BASE_URL = "https://betacdn.coachingquest.be/api";
+// export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://backend-new-hospital.onrender.com";
 
 export const DOCTORS_API_BASE_URL =
   "https://api.jsonbin.io/v3/b/66658046acd3cb34a854eb3c";
